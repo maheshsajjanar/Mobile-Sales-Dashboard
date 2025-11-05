@@ -36,4 +36,5 @@ Customer satisfaction leans strongly toward 4 and 5 star ratings
 ✔ Documentation (This README)
 
 🖼 Dashboard Snapshot (https://github.com/maheshsajjanar/Mobile-Sales-Dashboard/blob/main/Dashboard.JPG)
-<img width="1418" height="800" alt="image" src="https://github.com/user-attachments/assets/6d634230-ea4f-4ac8-8563-d4fd4d9963fd" />
+<img width="1338" height="752" alt="image" src="https://github.com/user-attachments/assets/42154af8-9358-4b4f-bcee-7f8018a57d40" />
+
